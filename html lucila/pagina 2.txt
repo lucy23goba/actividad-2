@@ -1,0 +1,24 @@
+<html>
+<head>
+
+<title>  mi emprendimiento </title>
+
+</head>
+
+<body> 
+
+<h1> Delipastry </h1>
+
+<h1> Somos una empresa emprendedora que busca brindarle a la personas buenos productos, que no sean costosos, saludables y de excelente calidad.  </h1>   
+ 
+<h1> ofrecemos: tartas de chocolatate, postre tres leches, postre de napoleon, helados, fresas con crema, galletas de mantequilla,etc. , </h1>
+
+<h1> "Un postre hace de tus momentos un dia especial" <h1> 
+
+
+<img src="foto 12.jpg"/ >
+
+
+</body>
+
+</html>
